@@ -1,4 +1,4 @@
-#' Title
+#' Load and projection of data
 #'
 #' @description
 #' Open of netcdf files of WRF SMN drom AWS and optional projection
@@ -10,7 +10,8 @@
 #' @param transform TRUE to project data to longlat datum=WGS84
 #' @param method if transform is set TRUE define projection method taken from project function of terra package
 #'
-#' @import terra
+#' @importFrom terra rast
+#' @importFrom terra project
 #' @return Spat Raster
 #'
 #' @export

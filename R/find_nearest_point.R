@@ -1,4 +1,4 @@
-#' Title
+#' Temporal series of closest location
 #'
 #' @description
 #' Location of nearest point to lon/lat and temporal serie of location
@@ -9,7 +9,8 @@
 #' @param lon Longitude location of nearest point to find
 #' @param lat Latitude location of nearest point to find
 #'
-#' @import terra
+#' @importFrom terra extract
+#' @importFrom terra vect
 #' @return a vector with the nearest location (lon/lat) and time serie of that location
 #'
 #'
