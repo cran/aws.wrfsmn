@@ -29,8 +29,8 @@ mg
 ## -----------------------------------------------------------------------------
 evaluation.eva <- mg.evaluation(input.data = eva, predictand = 'evapo_obs', predictors = test.predictors, var.model = 'OUT_EVAP', lmodel = mg)
 
-evaluation.eva
+head(evaluation.eva)
 
-## -----------------------------------------------------------------------------
+## ----out.width = "100%", fig.align = "center", echo=FALSE---------------------
 ploting(daily2monthly(evaluation.eva[[1]]))
 
