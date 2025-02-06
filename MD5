@@ -1,7 +1,8 @@
-13484a88031a9f3436baf8426d23d81b *DESCRIPTION
-96120f38b537d6e22890747146879798 *NAMESPACE
-9932d3c9c7fac9d10bd8efc64ac4d810 *NEWS.md
+eb697083ca12f069e6a9c1a89e53affd *DESCRIPTION
+5475ef17d098baf8366eabcb99113106 *NAMESPACE
+2ca727792ebfd3d2c72e0bee5703dfaf *NEWS.md
 75e21124f007d5705077c26e27abe735 *R/daily2monthly.R
+67210767d566a2d447dca190a45ca053 *R/daily_data_fields.R
 7614e1c787a74529a3cd93a383334ce4 *R/eva-data.R
 4a742aea3bace64105ccbd029e64c63b *R/find_nearest_point.R
 66c611517fb917ebd41587609c06fe8a *R/get_wrf_files.R
@@ -21,6 +22,7 @@ c5a4e92e61fcb284e6b7d1cb932cbed0 *inst/doc/Multiple-Linear-Regression-Correction
 b5accc930e21736ff2e6258b876e0f6b *inst/doc/Package-Introduction.R
 2a56b5c0673175515237020837b1bda7 *inst/doc/Package-Introduction.Rmd
 bc15ac640f15101093fe719276b54f9a *inst/doc/Package-Introduction.html
+2b38a2b773423cedda7ea0d32dd4f542 *man/daily.data.fields.Rd
 773e5f4e1f42a7f8d24600525368ad8a *man/daily2monthly.Rd
 8e519c1ab0b24bdfbe7f724d89eb3952 *man/eva.Rd
 12e7593de8e74e57da8446b8a46f4326 *man/find.nearest.point.Rd

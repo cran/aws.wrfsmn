@@ -1,3 +1,9 @@
+# aws.wrfsmn 0.0.5
+
+- New functions: daily_data_fields.R
+
+---
+
 # aws.wrfsmn 0.0.4
 
 - New functions
